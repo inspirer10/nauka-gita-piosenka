@@ -1,1 +1,1 @@
-# nauka-gita-piosenka
+https://inspirer10.github.io/nauka-gita-piosenka/
