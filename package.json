@@ -1,0 +1,26 @@
+{
+  "name": "nauka-gita-piosenka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inspirer10/nauka-gita-piosenka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inspirer10/nauka-gita-piosenka/issues"
+  },
+  "homepage": "https://github.com/inspirer10/nauka-gita-piosenka#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.3",
+    "nu-html-checker": "^0.1.0"
+  }
+}
