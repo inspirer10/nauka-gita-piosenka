@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    background: gray;
+    color: white;
+}
+
+img {
+    margin-top: 20px;
+    width: 570px;
+    height: 250px;
+}
+
+.container {
+    width: 40vw;
+    text-align: center;
+    display: inline-block;
+}
+
+header {
+    color: yellow;
+}
+
+header > p {
+    font-size: 35px;
+    font-weight: bold;
+    color: yellow;
+    margin: 0;
+}
+
+.top {
+    padding-top: 30px;
+}
+
+.text > p {
+    margin: 0;
+}
+
+footer {
+    margin: 60px 40px 5px;
+    color: yellow;
+    text-align: right;
+    
+}
